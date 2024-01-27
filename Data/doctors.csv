@@ -1,0 +1,21 @@
+Doctor_id,name,working_hours,specialization,working_days,qualification,phone_number,deptID
+101,"Dr. Smith","9:00 AM - 5:00 PM",Cardiology,Mon-Fri,MD,987-654-3210,1
+102,"Dr. Johnson","8:00 AM - 4:00 PM",Dermatology,Mon-Fri,MD,876-543-2109,2
+103,"Dr. Williams","10:00 AM - 6:00 PM",Orthopedics,Tue-Sat,DO,765-432-1098,3
+104,"Dr. Brown","7:30 AM - 3:30 PM",Pediatrics,Mon-Wed-Fri,MD,654-321-0987,4
+105,"Dr. Jones","9:30 AM - 5:30 PM",Neurology,Wed-Sat,DO,543-210-9876,5
+106,"Dr. Davis","8:30 AM - 4:30 PM",Gynecology,Thu-Sun,MD,432-109-8765,6
+107,"Dr. Miller","10:30 AM - 6:30 PM",Cardiology,Fri-Sun,DO,321-098-7654,7
+108,"Dr. Garcia","7:00 AM - 3:00 PM",Dermatology,Sat-Sun,MD,210-987-6543,8
+109,"Dr. Rodriguez","9:00 AM - 5:00 PM",Orthopedics,Mon-Tue-Thu,DO,109-876-5432,9
+110,"Dr. Martinez","8:00 AM - 4:00 PM",Pediatrics,Tue-Wed-Fri,MD,098-765-4321,10
+111,"Dr. Hernandez","10:00 AM - 6:00 PM",Neurology,Wed-Sat,DO,987-654-3210,11
+112,"Dr. Smithson","7:30 AM - 3:30 PM",Gynecology,Thu-Sun,MD,876-543-2109,12
+113,"Dr. Johnsonson","9:30 AM - 5:30 PM",Cardiology,Fri-Sun,DO,765-432-1098,13
+114,"Dr. Williamsburg","8:30 AM - 4:30 PM",Dermatology,Sat-Sun,MD,654-321-0987,14
+115,"Dr. Brownstone","10:30 AM - 6:30 PM",Orthopedics,Mon-Tue-Thu,DO,543-210-9876,15
+116,"Dr. Jonesborough","7:00 AM - 3:00 PM",Pediatrics,Tue-Wed-Fri,MD,432-109-8765,16
+117,"Dr. Davison","9:00 AM - 5:00 PM",Neurology,Wed-Sat,DO,321-098-7654,17
+118,"Dr. Millerton","8:00 AM - 4:00 PM",Gynecology,Thu-Sun,MD,210-987-6543,18
+119,"Dr. Rodriguezville","10:00 AM - 6:00 PM",Cardiology,Fri-Sun,DO,109-876-5432,19
+120,"Dr. Martinezberg","7:30 AM - 3:30 PM",Dermatology,Sat-Sun,MD,098-765-4321,20

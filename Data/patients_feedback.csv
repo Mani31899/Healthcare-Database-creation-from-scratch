@@ -1,0 +1,51 @@
+FeedbackID,comments,ratings,date_of_feedback,doctorID
+1,"Great experience with Dr. Smith",5,2023-03-20,116
+2,"Very satisfied with the service",4,2023-03-21,119
+3,"Professional and friendly staff",5,2023-03-22,115
+4,"Excellent care and attention",4,2023-03-23,118
+5,"Prompt and efficient service",5,2023-03-24,114
+6,"Clean and well-maintained facilities",3,2023-03-25,120
+7,"Impressed with the doctors knowledge",5,2023-03-26,117
+8,"Good communication from the staff",4,2023-03-27,101
+9,"Comfortable and welcoming environment",5,2023-03-28,113
+10,"Received clear explanations about treatment",4,2023-03-29,105
+11,"Timely and organized appointment scheduling",5,2023-03-30,107
+12,"Friendly and helpful receptionists",4,2023-03-31,106
+13,"Knowledgeable and compassionate doctors",5,2023-04-01,102
+14,"Efficient and well-managed processes",4,2023-04-02,109
+15,"Clean and comfortable waiting area",5,2023-04-03,104
+16,"Quick response to inquiries",4,2023-04-04,103
+17,"Appreciate the follow-up care",5,2023-04-05,112
+18,"Friendly and attentive nursing staff",4,2023-04-06,108
+19,"Smooth billing and payment process",5,2023-04-07,110
+20,"Satisfied with the overall experience",4,2023-04-08,111
+21,"Clean and well-equipped examination rooms",5,2023-04-09,119
+22,"Attentive and caring medical assistants",4,2023-04-10,113
+23,"Efficient check-in and check-out process",5,2023-04-11,106
+24,"Professional and courteous medical staff",4,2023-04-12,114
+25,"High-quality medical equipment and facilities",5,2023-04-13,117
+26,"Good communication from the healthcare team",4,2023-04-14,109
+27,"Prompt and accurate diagnosis",5,2023-04-15,120
+28,"Friendly and supportive administrative staff",4,2023-04-16,104
+29,"Comfortable and reassuring atmosphere",5,2023-04-17,107
+30,"Respectful and compassionate care",4,2023-04-18,116
+31,"Timely and thorough medical examinations",5,2023-04-19,102
+32,"Good follow-up care instructions",4,2023-04-20,105
+33,"Professional and knowledgeable specialists",5,2023-04-21,115
+34,"Efficient and accurate prescription process",4,2023-04-22,110
+35,"Access to convenient appointment scheduling",5,2023-04-23,118
+36,"Friendly and attentive customer service",4,2023-04-24,111
+37,"Patient and understanding medical staff",5,2023-04-25,116
+38,"Clear and transparent billing information",4,2023-04-26,103
+39,"Prompt and helpful responses from the support team",5,2023-04-27,107
+40,"Easy access to medical records and information",4,2023-04-28,104
+41,"Professional and respectful communication",5,2023-04-29,120
+42,"Clean and well-maintained restroom facilities",4,2023-04-30,109
+43,"Efficient and accurate test result communication",5,2023-05-01,102
+44,"Comfortable and well-designed waiting areas",4,2023-05-02,114
+45,"Responsive and helpful telehealth services",5,2023-05-03,108
+46,"Good coordination between healthcare teams",4,2023-05-04,115
+47,"Professional and compassionate emergency services",5,2023-05-05,101
+48,"Convenient and accessible location",4,2023-05-06,110
+49,"Detailed and thorough medical assessments",5,2023-05-07,105
+50,"Friendly and informative healthcare professionals",4,2023-05-08,119

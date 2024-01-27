@@ -1,0 +1,51 @@
+surgeryID,Procedure_Description,Date_and_Time,Type,Pre_n_post_Op_notes,doctorID,patientID
+1,Appendectomy,"2023-01-01 08:00:00",Emergency,"Notes for the surgery",110,205
+2,"Gallbladder Removal","2023-02-15 10:30:00",Elective,"Patient history notes",102,212
+3,"Knee Arthroscopy","2023-03-05 14:45:00",Orthopedic,"Post-op instructions",103,208
+4,"Cataract Surgery","2023-04-10 09:15:00",Ophthalmology,"Pre-op notes",114,203
+5,"Hernia Repair","2023-05-20 11:00:00","General Surgery","Surgical details",115,201
+6,"Hip Replacement","2023-06-08 13:30:00",Orthopedic,"Recovery instructions",108,216
+7,"Heart Bypass Surgery","2023-07-15 07:45:00",Cardiology,"Cardiac history notes",101,209
+8,Appendectomy,"2023-08-25 12:20:00",Emergency,"Emergency surgery notes",102,210
+9,"Lung Resection","2023-09-10 16:00:00","Thoracic Surgery","Respiratory notes",106,219
+10,"Spinal Fusion","2023-10-05 14:00:00",Neurosurgery,"Spinal surgery details",115,217
+11,"Gastric Bypass Surgery","2023-11-15 09:30:00",Bariatric,"Weight loss surgery notes",112,215
+12,"Kidney Transplant","2023-12-01 11:45:00","Transplant Surgery","Donor and recipient details",104,207
+13,"LASIK Eye Surgery","2024-01-10 14:15:00",Ophthalmology,"Vision correction details",119,207
+14,Prostatectomy,"2024-02-20 08:00:00",Urology,"Prostate surgery notes",107,209
+15,Thyroidectomy,"2024-03-05 13:30:00","Endocrine Surgery","Thyroid surgery details",103,210
+16,Colonoscopy,"2024-04-15 10:00:00",Gastroenterology,"Colon examination notes",109,208
+17,Tonsillectomy,"2024-05-20 12:45:00","ENT Surgery","Tonsil removal details",110,219
+18,"Rotator Cuff Repair","2024-06-08 15:15:00",Orthopedic,"Shoulder surgery notes",116,211
+19,"Liver Biopsy","2024-07-15 07:30:00",Hepatology,"Liver examination details",113,220
+20,"Coronary Angioplasty","2024-08-25 11:00:00",Cardiology,"Heart vessel intervention",116,202
+21,"Gallbladder Removal","2023-02-15 10:30:00",Elective,"Patient history notes",105,203
+22,"Knee Arthroscopy","2023-03-05 14:45:00",Orthopedic,"Post-op instructions",120,214
+23,"Cataract Surgery","2023-04-10 09:15:00",Ophthalmology,"Pre-op notes",109,219
+24,"Hernia Repair","2023-05-20 11:00:00","General Surgery","Surgical details",106,205
+25,"Hip Replacement","2023-06-08 13:30:00",Orthopedic,"Recovery instructions",109,207
+26,"Heart Bypass Surgery","2023-07-15 07:45:00",Cardiology,"Cardiac history notes",114,201
+27,Appendectomy,"2023-08-25 12:20:00",Emergency,"Emergency surgery notes",101,209
+28,"Lung Resection","2023-09-10 16:00:00","Thoracic Surgery","Respiratory notes",104,218
+29,"Spinal Fusion","2023-10-05 14:00:00",Neurosurgery,"Spinal surgery details",108,209
+30,"Gastric Bypass Surgery","2023-11-15 09:30:00",Bariatric,"Weight loss surgery notes",111,211
+31,"Kidney Transplant","2023-12-01 11:45:00","Transplant Surgery","Donor and recipient details",103,214
+32,"LASIK Eye Surgery","2024-01-10 14:15:00",Ophthalmology,"Vision correction details",107,216
+33,Prostatectomy,"2024-02-20 08:00:00",Urology,"Prostate surgery notes",119,203
+34,Thyroidectomy,"2024-03-05 13:30:00","Endocrine Surgery","Thyroid surgery details",114,214
+35,Colonoscopy,"2024-04-15 10:00:00",Gastroenterology,"Colon examination notes",105,211
+36,Tonsillectomy,"2024-05-20 12:45:00","ENT Surgery","Tonsil removal details",109,210
+37,"Rotator Cuff Repair","2024-06-08 15:15:00",Orthopedic,"Shoulder surgery notes",117,220
+38,"Liver Biopsy","2024-07-15 07:30:00",Hepatology,"Liver examination details",108,203
+39,"Coronary Angioplasty","2024-08-25 11:00:00",Cardiology,"Heart vessel intervention",110,206
+40,"Gallbladder Removal","2023-02-15 10:30:00",Elective,"Patient history notes",113,218
+41,"Knee Arthroscopy","2023-03-05 14:45:00",Orthopedic,"Post-op instructions",106,205
+42,"Cataract Surgery","2023-04-10 09:15:00",Ophthalmology,"Pre-op notes",109,210
+43,"Hernia Repair","2023-05-20 11:00:00","General Surgery","Surgical details",102,201
+44,"Hip Replacement","2023-06-08 13:30:00",Orthopedic,"Recovery instructions",117,213
+45,"Heart Bypass Surgery","2023-07-15 07:45:00",Cardiology,"Cardiac history notes",103,220
+46,Appendectomy,"2023-08-25 12:20:00",Emergency,"Emergency surgery notes",106,219
+47,"Lung Resection","2023-09-10 16:00:00","Thoracic Surgery","Respiratory notes",109,204
+48,"Spinal Fusion","2023-10-05 14:00:00",Neurosurgery,"Spinal surgery details",110,216
+49,"Gastric Bypass Surgery","2023-11-15 09:30:00",Bariatric,"Weight loss surgery notes",119,217
+50,"Kidney Transplant","2023-12-01 11:45:00","Transplant Surgery","Donor and recipient details",114,215

@@ -1,0 +1,51 @@
+PaymentID,Invoice_details,amount_due,payment_method,date_of_payment,payment_status
+1,Invoice123,50.00,"Credit Card",2023-03-15,Paid
+2,Invoice124,75.00,Cash,2023-03-16,Paid
+3,Invoice125,100.00,"Debit Card",2023-03-17,Paid
+4,Invoice126,120.00,"Credit Card",2023-03-18,Paid
+5,Invoice127,90.00,Cash,2023-03-19,Paid
+6,Invoice128,110.00,"Debit Card",2023-03-20,Paid
+7,Invoice129,130.00,"Credit Card",2023-03-21,Paid
+8,Invoice130,160.00,Cash,2023-03-22,Paid
+9,Invoice131,180.00,"Debit Card",2023-03-23,Paid
+10,Invoice132,70.00,"Credit Card",2023-03-24,Paid
+11,Invoice133,120.00,Cash,2023-03-25,Paid
+12,Invoice134,50.00,"Debit Card",2023-03-26,Paid
+13,Invoice135,140.00,"Credit Card",2023-03-27,Paid
+14,Invoice136,190.00,Cash,2023-03-28,Paid
+15,Invoice137,100.00,"Debit Card",2023-03-29,Paid
+16,Invoice138,130.00,"Credit Card",2023-03-30,Paid
+17,Invoice139,160.00,Cash,2023-03-31,Paid
+18,Invoice140,110.00,"Debit Card",2023-04-01,Paid
+19,Invoice141,130.00,"Credit Card",2023-04-02,Paid
+20,Invoice142,160.00,Cash,2023-04-03,Paid
+21,Invoice143,70.00,"Debit Card",2023-04-04,Paid
+22,Invoice144,120.00,"Credit Card",2023-04-05,Paid
+23,Invoice145,150.00,Cash,2023-04-06,Paid
+24,Invoice146,90.00,"Debit Card",2023-04-07,Paid
+25,Invoice147,130.00,"Credit Card",2023-04-08,Paid
+26,Invoice148,160.00,Cash,2023-04-09,Paid
+27,Invoice149,110.00,"Debit Card",2023-04-10,Paid
+28,Invoice150,130.00,"Credit Card",2023-04-11,Paid
+29,Invoice151,160.00,Cash,2023-04-12,Paid
+30,Invoice152,70.00,"Debit Card",2023-04-13,Paid
+31,Invoice153,120.00,"Credit Card",2023-04-14,Paid
+32,Invoice154,150.00,Cash,2023-04-15,Paid
+33,Invoice155,100.00,"Debit Card",2023-04-16,Paid
+34,Invoice156,130.00,"Credit Card",2023-04-17,Paid
+35,Invoice157,160.00,Cash,2023-04-18,Paid
+36,Invoice158,110.00,"Debit Card",2023-04-19,Paid
+37,Invoice159,130.00,"Credit Card",2023-04-20,Paid
+38,Invoice160,160.00,Cash,2023-04-21,Paid
+39,Invoice161,70.00,"Debit Card",2023-04-22,Paid
+40,Invoice162,120.00,"Credit Card",2023-04-23,Paid
+41,Invoice163,150.00,Cash,2023-04-24,Paid
+42,Invoice164,90.00,"Debit Card",2023-04-25,Paid
+43,Invoice165,130.00,"Credit Card",2023-04-26,Paid
+44,Invoice166,160.00,Cash,2023-04-27,Paid
+45,Invoice167,110.00,"Debit Card",2023-04-28,Paid
+46,Invoice168,130.00,"Credit Card",2023-04-29,Paid
+47,Invoice169,160.00,Cash,2023-04-30,Paid
+48,Invoice170,70.00,"Debit Card",2023-05-01,Paid
+49,Invoice171,120.00,"Credit Card",2023-05-02,Paid
+50,Invoice172,150.00,Cash,2023-05-03,Paid

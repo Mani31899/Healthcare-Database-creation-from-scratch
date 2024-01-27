@@ -1,0 +1,51 @@
+Appointment_id,date,timings,issue_of_symptoms,doctorID,patientID
+1,2023-03-01,10:00:00,"Fever and headache",101,201
+2,2023-03-05,11:30:00,"Cough and cold symptoms",102,202
+3,2023-03-10,13:15:00,"Back pain and muscle soreness",103,203
+4,2023-03-15,14:45:00,"Annual checkup",104,204
+5,2023-03-20,15:30:00,"Follow-up on medication",105,205
+6,2023-03-25,09:00:00,"Skin rash and itching",106,206
+7,2023-03-30,10:45:00,"Joint pain and stiffness",107,207
+8,2023-04-05,12:15:00,"Digestive issues",108,208
+9,2023-04-10,14:00:00,"Eye irritation and redness",109,209
+10,2023-04-15,15:45:00,"Dizziness and vertigo",110,210
+11,2023-04-20,09:30:00,"Headache and fatigue",111,211
+12,2023-04-25,11:00:00,"Respiratory difficulty",112,212
+13,2023-05-01,12:45:00,"Follow-up on chronic condition",113,213
+14,2023-05-05,14:30:00,"General health consultation",114,214
+15,2023-05-10,15:15:00,"Weight management advice",115,215
+16,2023-05-15,09:45:00,"Joint pain and stiffness",116,216
+17,2023-05-20,11:30:00,"Annual checkup",117,217
+18,2023-05-25,13:00:00,"Follow-up on medication",118,218
+19,2023-05-30,14:45:00,"Skin rash and itching",119,219
+20,2023-06-05,15:30:00,"Cough and cold symptoms",120,220
+21,2023-06-10,09:15:00,"Back pain and muscle soreness",101,201
+22,2023-06-15,10:45:00,"Digestive issues",102,202
+23,2023-06-20,12:30:00,"Eye irritation and redness",103,203
+24,2023-06-25,14:00:00,"Dizziness and vertigo",104,210
+25,2023-07-01,15:45:00,"Headache and fatigue",105,205
+26,2023-07-05,09:30:00,"Respiratory difficulty",106,206
+27,2023-07-10,11:15:00,"Follow-up on chronic condition",104,209
+28,2023-07-15,12:45:00,"General health consultation",118,202
+29,2023-07-20,14:30:00,"Weight management advice",109,209
+30,2023-07-25,15:15:00,"Joint pain and stiffness",110,210
+31,2023-08-01,09:45:00,"Annual checkup",111,211
+32,2023-08-05,11:30:00,"Follow-up on medication",112,213
+33,2023-08-10,13:00:00,"Skin rash and itching",113,207
+34,2023-08-15,14:45:00,"Cough and cold symptoms",116,213
+35,2023-08-20,15:30:00,"Back pain and muscle soreness",115,215
+36,2023-08-25,09:15:00,"Digestive issues",116,216
+37,2023-08-30,10:45:00,"Eye irritation and redness",114,217
+38,2023-09-05,12:30:00,"Dizziness and vertigo",118,218
+39,2023-09-10,14:00:00,"Headache and fatigue",116,215
+40,2023-09-15,15:45:00,"Respiratory difficulty",104,208
+41,2023-09-20,09:30:00,"Follow-up on chronic condition",108,204
+42,2023-09-25,11:00:00,"General health consultation",112,206
+43,2023-10-01,12:45:00,"Weight management advice",116,216
+44,2023-10-05,14:30:00,"Joint pain and stiffness",114,205
+45,2023-10-10,15:15:00,"Annual checkup",109,209
+46,2023-10-15,09:45:00,"Follow-up on medication",111,211
+47,2023-10-20,11:30:00,"Skin rash and itching",111,211
+48,2023-10-25,13:00:00,"Cough and cold symptoms",112,216
+49,2023-10-30,14:45:00,"Back pain and muscle soreness",103,203
+50,2023-11-05,15:30:00,"Digestive issues",103,203
