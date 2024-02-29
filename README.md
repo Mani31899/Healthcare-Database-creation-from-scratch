@@ -12,7 +12,7 @@ This project focuses on the development and implementation of a comprehensive he
 4. **Query Examples:** Demonstration of various SQL queries for data retrieval and analysis, showcasing the versatility and functionality of the database model.
 5. **Documentation:** Detailed documentation provided in Word files, offering a comprehensive guide on project execution and database utilization.
 
-## Workflow
+## Step by Step Databse Creation
 - **Database Design:** Creation of Entity-Relationship (EER) and Unified Modeling Language (UML) diagrams to conceptualize the database structure.
 - **Relational Mapping:** Mapping of conceptual models to relational models, defining primary and foreign keys for data relationships.
 - **Database Implementation:** Deployment of the database model using MySQL, comprising twenty-three tables to store patient, healthcare provider, appointment, medication, and other relevant information.
